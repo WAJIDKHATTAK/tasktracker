@@ -3,7 +3,8 @@ name: Github Pages Deploy
 on:
   push:
       branches:
-       -  main
+       - main
+       - gh-pages
 
 permissions:
   contents: write
