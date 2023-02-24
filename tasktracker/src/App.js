@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />   
-          <h2>Why does react suck so bad</h2>
+          <h2>Why does react suck so bad why you bully me</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
